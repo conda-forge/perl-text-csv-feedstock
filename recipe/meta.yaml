@@ -1,6 +1,6 @@
 {% set name = "perl-text-csv" %}
-{% set version = "2.02" %}
-{% set sha256 = "84120de3e10489ea8fbbb96411a340c32cafbe5cdff7dd9576b207081baa9d24" %}
+{% set version = "2.04" %}
+{% set sha256 = "4f80122e4ea0b05079cad493e386564030f18c8d7b1f9af561df86985a653fe3" %}
 
 package:
   name: {{ name }}
